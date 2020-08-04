@@ -6,7 +6,7 @@ This repository contains the Support files for the article: TITLE
 © Tiago Tamagusko (tamagusko@gmail.com)  
 Version: [CHANGELOG.md](/CHANGELOG.md)  
 Project Page: <a href="https://github.com/tamagusko/manilaCovid19">https://github.com/tamagusko/manilaCovid19</a>  
-Licence: [LICENSE](/LICENSE)
+Licence: [CC-BY-NC-ND-4.0](/LICENSE)
 
 # Environment
 
