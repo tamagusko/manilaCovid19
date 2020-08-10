@@ -19,7 +19,7 @@ Install the required packages with `pip install -r requirements.txt`
 > [Support codes](/manila.ipynb)  
 
 # Citation
-Hasselwander, M. and Tamagusko, A. (2020). TITLE. Retrieved from https://github.com/tamagusko/covid19/manila (accessed on MONTH DAY, YEAR). **Atualize to journal citation.**  
+Hasselwander, M. and Tamagusko, A. (2020). TITLE. Retrieved from https://github.com/tamagusko/manilaCovid19 (accessed on MONTH DAY, YEAR). **Atualize to journal citation.**  
 
 # References
 [1] Ref. one...  
