@@ -14,9 +14,9 @@ Use Python `3.7 or higher`.
 
 Install the required packages with `pip install -r requirements.txt`
 
-# Links
+<!-- # Links -->
     
-> <!-- [Support codes]('/manila.ipynb') -->
+<!-- >  [Support codes]('/manila.ipynb') -->
 
 # Citation
 Hasselwander, M. and Tamagusko, A. (2020). TITLE. Retrieved from https://github.com/tamagusko/manilaCovid19 (accessed on MONTH DAY, YEAR). **Atualize to journal citation.**  
