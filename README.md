@@ -5,7 +5,7 @@ This repository contains the Support files for the article: **Building back bett
 ## Basic info:
 © [Tiago Tamagusko](https://tamagusko.github.io)  
 Visualization: [bit.ly/hasselwander-tamagusko-et-al](https://bit.ly/hasselwander-tamagusko-et-al)  
-Source: [github.com/tamagusko/covid19/manila](https://github.com/tamagusko/covid19/manila)  
+Source: [github.com/tamagusko/manilaCovid19](https://github.com/tamagusko/manilaCovid19)  
 Licence: [CC-BY-NC-ND-4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 
 
 ## Environment
