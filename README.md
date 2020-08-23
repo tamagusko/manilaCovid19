@@ -8,7 +8,7 @@ Visualization: [bit.ly/hasselwander-tamagusko-et-al](https://bit.ly/hasselwander
 Source: [github.com/tamagusko/covid19/manila](https://github.com/tamagusko/covid19/manila)  
 Licence: [CC-BY-NC-ND-4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 
 
-# Environment
+## Environment
 
 Use Python `3.7 or higher`.
 
@@ -21,8 +21,7 @@ Install the required packages with `pip install -r requirements.txt`
 ## Citation:
 Hasselwander, M. and Tamagusko, T. (2020). **Building back better: The COVID-19 pandemic and transport policy recommendations for a developing megacity**. Submitted to JOURNAL. ArXiv ID: https://arxiv.org/LINK.
 
-# References
-# References:
+## References:
 [1] Kulik, O. (2020). COVID-19 Mobility Data Aggregator (Version v20200810005746) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3978281  
 [2] Google LLC. Google COVID-19 Community Mobility Reports. Available online: https://www.google.com/covid19/mobility/  
 [3]  Apple Inc. Apple Mobility Trends Reports. Available online: https://www.apple.com/covid19/mobility  
