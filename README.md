@@ -19,8 +19,19 @@ Install the required packages with `pip install -r requirements.txt`
 <!-- >  [Support codes]('/manila.ipynb') -->
 
 ## Citation:
-Hasselwander, M. and Tamagusko, T. (2020). **Building back better: The COVID-19 pandemic and transport policy recommendations for a developing megacity**. Submitted to JOURNAL. ArXiv ID: https://arxiv.org/LINK.
+Marc Hasselwander, Tiago Tamagusko, João Bigotte, Adelino Ferreira, Alvin Mejia (2020). **Building back better: The COVID - 19 pandemic and transport policy recommendations for a developing megacity**. Submitted to JOURNAL. ArXiv ID: https://arxiv.org/LINK. DOI: https://doi.org/LINK
 
+```bibtex
+@article{Hasselwander-Tamagusko-et-al2020,
+  author = {Marc Hasselwander, Tiago Tamagusko, João Bigotte, Adelino Ferreira, Alvin Mejia},
+  title = "{Building back better: The COVID - 19 pandemic and transport policy recommendations for a developing megacity}",
+  journal = {ArXiv e-prints},
+  eprint = {arXiv: ID},
+  doi = {DOI}
+  year = {2020}
+  url = {https://arxiv.org/LINK}
+}
+```
 ## References:
 [1] Kulik, O. (2020). COVID-19 Mobility Data Aggregator (Version v20200810005746) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3978281  
 [2] Google LLC. Google COVID-19 Community Mobility Reports. Available online: https://www.google.com/covid19/mobility/  
