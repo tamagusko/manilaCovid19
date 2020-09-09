@@ -1,4 +1,4 @@
-# All material in this repository is in the initial development phase. Therefore, the results have not been validated.
+# All material in this repository is in the development.
 
 This repository contains the Support files for the article: **Building back better: The COVID-19 pandemic and transport policy recommendations for a developing megacity**
 
