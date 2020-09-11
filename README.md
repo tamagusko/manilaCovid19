@@ -5,7 +5,7 @@ This repository contains the Support files for the article: **Building back bett
 ## Basic info:
 © [Tiago Tamagusko](https://tamagusko.github.io)  
 Visualization: [bit.ly/hasselwander-tamagusko-et-al](https://bit.ly/hasselwander-tamagusko-et-al)  
-Paper: [https://arxiv.org/LINK](https://arxiv.org/LINK) (not working yet)
+Paper: [https://arxiv.org/LINK](https://arxiv.org/LINK) (not working yet)  
 Licence: [CC-BY-NC-ND-4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 
 
 ## Environment
