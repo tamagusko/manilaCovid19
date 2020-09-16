@@ -1,3 +1,8 @@
+# Calculates and plots the changepoint for Google Mobility Reports.
+# Author:  Tiago Tamagusko <tamagusko@gmail.com>
+# Version: 0.3 (2020-09-16)
+# License: CC-BY-NC-ND-4.0
+
 library(tidyverse)  # v1.3.0
 library(ggplot2)  # v3.3.0
 library(cowplot)  # v1.0.0 - formating graphs for pub
@@ -5,17 +10,13 @@ library(ggpubr)  # v0.3.0 - plot figures into a grid
 library(changepoint)  # 2.2.2 Changepoint detection
 
 
-############ PROGRAM SETTINGS ############ 
+############ PROGRAM SETTINGS ############
+# Configured for Metro Manila region
 COUNTRY <- 'Philippines'
 REGION <- 'Manila Metropolitan Area'
-PROJECT_FOLDER <- '/home/tt/Dropbox/03-ML/03-Projects/04-Covid19R/'
-GOOGLE_DATASET <- '/home/tt/Desktop/Global_Mobility_Report.csv'
-# online path
-# GOOGLE_DATASET <- 'https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv'
-############ END OF SETTINGS ############ 
+############ END OF SETTINGS ############
 
-# set project folder
-setwd(PROJECT_FOLDER)
+GOOGLE_DATASET <- 'https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv'
 
 # read data
 GlobalMobilityReport <- read.csv(file = GOOGLE_DATASET) %>%
