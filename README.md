@@ -2,7 +2,7 @@
 
 This repository contains the Support files for the article: **Building back better: The COVID-19 pandemic and transport policy recommendations for a developing megacity**
 
-## Basic info:
+##
 © [Tiago Tamagusko](https://tamagusko.github.io)  
 Visualization: [bit.ly/hasselwander-tamagusko-et-al](https://bit.ly/hasselwander-tamagusko-et-al)  
 Paper: [https://arxiv.org/LINK](https://arxiv.org/LINK) (not working yet)  
