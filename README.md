@@ -1,4 +1,4 @@
-# All material in this repository is in the development.
+# * Under development.
 
 This repository contains the Support files for the article: **Building back better: The COVID-19 pandemic and transport policy recommendations for a developing megacity**
 
@@ -7,12 +7,12 @@ This repository contains the Support files for the article: **Building back bett
 Visualization: [bit.ly/hasselwander-tamagusko-et-al](https://bit.ly/hasselwander-tamagusko-et-al)  
 Paper: [https://arxiv.org/LINK](https://arxiv.org/LINK) (not working yet)  
 Licence: [CC-BY-NC-ND-4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 
+<!--
+<!-- ## Environment -->
 
-## Environment
+<!-- Use Python `3.7 or higher`. -->
 
-Use Python `3.7 or higher`.
-
-Install the required packages with `pip install -r requirements.txt`
+<!-- Install the required packages with `pip install -r requirements.txt` -->
 
 <!-- # Links -->
     
