@@ -22,7 +22,10 @@ Marc Hasselwander, Tiago Tamagusko, João Bigotte, Adelino Ferreira, Alvin Mejia
 }
 ```
 ## References:
-[1] Google LLC. Google COVID-19 Community Mobility Reports. Available online: https://www.google.com/covid19/mobility/  
-[2] Apple Inc. Apple Mobility Trends Reports. Available online: https://www.apple.com/covid19/mobility  
-[3] Department of Health. COVID-19 Tracker. Available online: https://doh.gov.ph  
+[1] Google LLC. Google COVID-19 Community Mobility Reports. Available online: https://www.google.com/covid19/mobility/
+
+[2] Apple Inc. Apple Mobility Trends Reports. Available online: https://www.apple.com/covid19/mobility
+
+[3] Department of Health. COVID-19 Tracker. Available online: https://doh.gov.ph
+
 [4] Hasselwander, M., Bigotte, J.M., Antunes, A.P., & Sigua, R.G. (2020). Towards Sustainable Transport in Developing Countries: The Demand for Mobility -as-a-Service (MaaS) in Metro Manila. Submitted for Publication.
