@@ -10,7 +10,7 @@ Marc Hasselwander, Tiago Tamagusko, João Bigotte, Adelino Ferreira, Alvin Mejia
 @article{Hasselwander-Tamagusko-et-al2020,
   author = {Marc Hasselwander, Tiago Tamagusko, João Bigotte, Adelino Ferreira, Alvin Mejia},
   title = "{Building back better: The COVID-19 pandemic and transport poli-cy implications for a developing megacity}",
-  journal = {ArXiv e-prints},
+  journal = {Submitted for publication},
   doi = {DOI}
   year = {2020}
 }
