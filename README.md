@@ -1,11 +1,8 @@
-© [Tiago Tamagusko](https://tamagusko.github.io)  
+This repository contains the Support files for the article: **Building back better: The COVID-19 pandemic and transport poli-cy implications for a developing megacity**
+
 Dashboard: [bit.ly/hasselwander-tamagusko-et-al](https://bit.ly/hasselwander-tamagusko-et-al)  
 <!-- Paper: [https://arxiv.org/LINK](https://arxiv.org/LINK) -->
 Licence: [CC-BY-NC-ND-4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-# * Under development.
-
-This repository contains the Support files for the article: **Building back better: The COVID-19 pandemic and transport poli-cy implications for a developing megacity**
 
 ## Citation:
 Marc Hasselwander, Tiago Tamagusko, João Bigotte, Adelino Ferreira, Alvin Mejia (2020). **Building back better: The COVID-19 pandemic and transport poli-cy implications for a developing megacity**. Submitted to JOURNAL.
