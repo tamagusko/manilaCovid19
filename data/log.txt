@@ -4,3 +4,5 @@
 20-10-21_18:10: Apple data processed
 20-10-21_18:11: Google data processed
 20-10-21_18:11: Apple data processed
+20-10-21_22:46: Google data processed
+20-10-21_22:46: Apple data processed
