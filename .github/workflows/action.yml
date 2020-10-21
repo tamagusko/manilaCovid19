@@ -22,7 +22,7 @@ jobs:
       - name: Install Requirements                             
         run: pip install -r src/requirements.txt
       - name: Update datasets
-        run: python data/schedule.py
+        run: python src/schedule.py
       - name: Commit and push if it changed
         run: |
           git config user.name "${GITHUB_ACTOR}"
