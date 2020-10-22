@@ -6,11 +6,7 @@ License: CC-BY-NC-ND-4.0
 """
 import json
 import urllib.request
-import datetime
-
 import pandas as pd
-
-CURRENT_TIME: str = datetime.datetime.today().strftime("%y-%m-%d_%H:%M")
 
 
 def drop_df_col(df, *columns_drop):
@@ -73,7 +69,7 @@ def prepare_google_data():
     replace_df_col(df, r"_", " ")
     df = drop_df_col(df, 0, 1)
     df.to_csv("data/google_data_processed.csv")
-   
+
 
 def prepare_apple_data():
     """Get link of dataset from apple mobility reports using json API"""
@@ -149,7 +145,7 @@ def prepare_apple_data():
     df = df[df["sub-region"] == 'Manila']
     df = drop_df_col(df, 0, 1, 2, 3)
     df.to_csv("data/apple_data_processed.csv")
-    
+
 
 prepare_google_data()
 prepare_apple_data()
