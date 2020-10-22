@@ -1,7 +1,8 @@
+[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
+
 This repository contains the Support files for the article: **Building back better: The COVID-19 pandemic and transport policy implications for a developing megacity**
 
 **Dashboard**: [bit.ly/hasselwander-tamagusko-et-al](https://bit.ly/hasselwander-tamagusko-et-al)  
-[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
 <!-- Paper: [https://arxiv.org/LINK](https://arxiv.org/LINK) -->
 
 ## Citation:
