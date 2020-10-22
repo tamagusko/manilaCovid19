@@ -1,4 +1,4 @@
-[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](LICENSE)
 
 This repository contains the Support files for the article: **Building back better: The COVID-19 pandemic and transport policy implications for a developing megacity**
 
