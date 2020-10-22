@@ -73,8 +73,7 @@ def prepare_google_data():
     replace_df_col(df, r"_", " ")
     df = drop_df_col(df, 0, 1)
     df.to_csv("data/google_data_processed.csv")
-    return print(CURRENT_TIME + ": Google data processed", file=open("data/log.txt", "a"))
-
+   
 
 def prepare_apple_data():
     """Get link of dataset from apple mobility reports using json API"""
@@ -150,8 +149,7 @@ def prepare_apple_data():
     df = df[df["sub-region"] == 'Manila']
     df = drop_df_col(df, 0, 1, 2, 3)
     df.to_csv("data/apple_data_processed.csv")
-    return print(CURRENT_TIME + ": Apple data processed", file=open("data/log.txt", "a"))
-
+    
 
 prepare_google_data()
 prepare_apple_data()
