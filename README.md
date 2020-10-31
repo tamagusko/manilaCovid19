@@ -9,7 +9,7 @@ This repository contains the Support files for the article: **Building back bett
 Marc Hasselwander, Tiago Tamagusko, João Bigotte, Adelino Ferreira, Alvin Mejia, and Emma J. S. Ferranti (2020). **Building back better: The COVID-19 pandemic and transport policy implications for a developing megacity**. Submitted for publication.
 ```bibtex
 @article{Hasselwander-Tamagusko-et-al2020,
-  author = {Marc Hasselwander, Tiago Tamagusko, João Bigotte, Adelino Ferreira, Alvin Mejia},
+  author = {Marc Hasselwander, Tiago Tamagusko, João Bigotte, Adelino Ferreira, Alvin Mejia, Emma J. S. Ferranti},
   title = "{Building back better: The COVID-19 pandemic and transport poli-cy implications for a developing megacity}",
   journal = {Submitted for publication},
   doi = {DOI}
