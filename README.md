@@ -6,8 +6,7 @@ This repository contains the support files for the paper.
  **Paper**: [10.1016/j.scs.2021.102864](https://doi.org/10.1016/j.scs.2021.102864)
 
 ## Citation:
-
-Marc Hasselwander, Tiago Tamagusko, Joao F. Bigotte, Adelino Ferreira, Alvin Mejia, Emma J.S. Ferranti (2021). **Building back better: The COVID-19 pandemic and transport policy implications for a developing megacity**, Sustainable Cities and Society, Volume 69, 2021, 102864, ISSN 2210-6707, [DOI: 10.1016/j.scs.2021.102864](https://doi.org/10.1016/j.scs.2021.102864).
+Hasselwander, M., Tamagusko, T., Bigotte, J. F., Ferreira, A., Mejia, A., & Ferranti, E. J. (2021). **Building back better: The COVID-19 pandemic and transport policy implications for a developing megacity.** Sustainable Cities and Society, 69, 102864. [DOI:10.1016/j.scs.2021.102864](https://doi.org/10.1016/j.scs.2021.102864)
 
 ```bibtex
 @article{Hasselwander-Tamagusko2020,
