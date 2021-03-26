@@ -1,20 +1,21 @@
-# Building back better: The COVID-19 pandemic and transport policy implications for a developing megacity (paper title)
+# Building back better: The COVID-19 pandemic and transport policy implications for a developing megacity
 
 This repository contains the support files for the paper.
 
 **Dashboard**: [bit.ly/hasselwander-tamagusko-et-al](https://bit.ly/hasselwander-tamagusko-et-al)  
-<!-- Paper: [https://doi.org/LINK](https://doi.org/LINK) -->
+ **Paper**: [10.1016/j.scs.2021.102864](https://doi.org/10.1016/j.scs.2021.102864)
 
 ## Citation:
 
-Marc Hasselwander, Tiago Tamagusko, João Bigotte, Adelino Ferreira, Alvin Mejia, and Emma J. S. Ferranti (2020). **Building back better: The COVID-19 pandemic and transport policy implications for a developing megacity**. Submitted for publication.
+Marc Hasselwander, Tiago Tamagusko, Joao F. Bigotte, Adelino Ferreira, Alvin Mejia, Emma J.S. Ferranti (2021). **Building back better: The COVID-19 pandemic and transport policy implications for a developing megacity**, Sustainable Cities and Society, Volume 69, 2021, 102864, ISSN 2210-6707, [DOI: 10.1016/j.scs.2021.102864](https://doi.org/10.1016/j.scs.2021.102864).
+
 ```bibtex
 @article{Hasselwander-Tamagusko-et-al2020,
-  author = {Marc Hasselwander, Tiago Tamagusko, João Bigotte, Adelino Ferreira, Alvin Mejia, Emma J. S. Ferranti},
-  title = "{Building back better: The COVID-19 pandemic and transport poli-cy implications for a developing megacity}",
-  journal = {Submitted for publication},
-  doi = {DOI}
-  year = {2020}
+  author = {Marc Hasselwander, Tiago Tamagusko, Joao F. Bigotte, Adelino Ferreira, Alvin Mejia, Emma J.S. Ferranti},
+  title = "{Building back better: The COVID-19 pandemic and transport policy implications for a developing megacity}",
+  journal = {Sustainable Cities and Society},
+  doi = {10.1016/j.scs.2021.102864}
+  year = {2021}
 }
 ```
 ## References:
@@ -25,4 +26,4 @@ Marc Hasselwander, Tiago Tamagusko, João Bigotte, Adelino Ferreira, Alvin Mejia
 
 ## License
 
-[CC-BY-NC-ND-4.0](LICENSE) (c) 2020, [Tiago Tamagusko](https://tamagusko.github.io/).
+[CC-BY-NC-ND-4.0](LICENSE) (c) 2021, [Tiago Tamagusko](https://tamagusko.github.io/).
