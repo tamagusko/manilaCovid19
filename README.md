@@ -1,7 +1,5 @@
 # Building back better: The COVID-19 pandemic and transport policy implications for a developing megacity
 
-This repository contains the support files for the paper.
-
 **Dashboard**: [bit.ly/hasselwander-tamagusko-et-al](https://bit.ly/hasselwander-tamagusko-et-al)  
  **Paper**: [10.1016/j.scs.2021.102864](https://doi.org/10.1016/j.scs.2021.102864)
 
